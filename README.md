@@ -1,2 +1,2 @@
 # hmis-repo01
-Repositorio para la Actividad de HMIS
+Repositorio de Victor S. para la Sesión 03 de HMIS
